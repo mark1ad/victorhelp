@@ -2,7 +2,7 @@
   "name": "victorhelp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mark1ad.github.io/victorhelp/",
+  "homepage": "https://mark1ad.github.io/victorhelp.github.io/",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
